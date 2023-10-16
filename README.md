@@ -26,7 +26,7 @@ motion in the robot(undesired for indoor motion).
 controller increased/decreased velocity according to the Euclidean distance 
 calculated during runtime.
 
-_Note: Both PD and P controller are used in the main code and not used as a separate function_
+_Note: Both PD and P controller are used in the main code not as a separate function_
 
 ### Images of RVIZ
 
