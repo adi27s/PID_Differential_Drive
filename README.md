@@ -6,8 +6,7 @@ Differential Drive Robot Prototype for Warehouse Automation using 2D Kinematics.
 ### Assumptions:<br>
 1. Linear Speed will vary from 0 to 1 (Proportional Control is used). <br>
 2. Angular speed is constrained between [-0.3,0.3] rad/s for smooth motion. <br>
-3. Landmarks are in the form of cubes of dimensions 0.3,0.3,0.5. Therefore, obstacle 
-detection from Lidar is given at 0.8 instead of 0.3.
+3. Landmarks are in the form of cubes of dimension 0.3,0.3,0.5.
 4. The number of landmarks can be increased or decreased by uncommenting the 
 waypoints in the main code.
 
