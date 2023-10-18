@@ -29,6 +29,9 @@ calculated during runtime.
 _Note: Both PD and P controller are used in the main code not as a separate function_
 
 ### Images of RVIZ
+![Screenshot from 2023-10-18 17-33-30](https://github.com/adi27s/PID_Differential_Drive/assets/123253804/a7ff2d27-ad33-4c32-a146-a00e6792f9d5)
+
+![Screenshot from 2023-10-18 17-33-35](https://github.com/adi27s/PID_Differential_Drive/assets/123253804/a161c87c-38ec-4cdc-a466-a93f28fe60d4)
 
 ![image](https://github.com/adi27s/PID_Differential_Drive/assets/123253804/08cc713e-7c34-4e27-a819-01fdcf5e0a85)
 
